@@ -1,11 +1,14 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.image {
+  height: 120px;
+  width: 150px;
+  display: inline;
+  border-radius: 5px;
+  box-shadow: 8px 10px 5px grey;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
